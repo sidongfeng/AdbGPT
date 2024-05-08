@@ -1,0 +1,6 @@
+loguru==0.6.0
+uiautomator2==2.16.22
+numpy==1.23.5
+attrs==22.2.0
+lxml==4.9.2
+openai==0.27.0

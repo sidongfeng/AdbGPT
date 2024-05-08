@@ -1,0 +1,16 @@
+<html>
+  <button id=0 class="" alt="open drawer" style="width:196px; height:196px; left:0px; top:84px"></button>
+  <button id=1 class="chat_actionbar" alt="Chat" style="width:168px; height:168px; left:1272px; top:98px"></button>
+  <p id=2 class="toolbar_title" alt="" style="width:1076px; height:76px; left:196px; top:144px">Log In</p>
+  <p id=3 class="" alt="" style="width:1440px; height:98px; left:0px; top:280px">LOG IN WITH YOUR EMAIL</p>
+  <input id=4 class="et_new_login_username" alt="" style="width:1334px; height:105px; left:53px; top:442px"></input>
+  <input id=5 class="et_new_login_password" alt="" style="width:1334px; height:105px; left:53px; top:565px"></input>
+  <button id=6 class="login_username_btn" alt="" style="width:1334px; height:140px; left:53px; top:688px">LOGIN</button>
+  <p id=7 class="et_forgot_password" alt="" style="width:341px; height:57px; left:53px; top:881px">Forgot Password?</p>
+  <p id=8 class="et_forgot_email" alt="" style="width:346px; height:57px; left:1041px; top:881px">Forgot your email?</p>
+  <input id=9 type="checkbox" name="login_save_chk">
+  <label for=9 style="width:580px; height:76px; left:53px; top:991px">Keep Me Logged In</label>
+  <p id=10 class="login_fb_text" alt="" style="width:1440px; height:98px; left:0px; top:1155px">OR LOG IN WITH FACEBOOK</p>
+  <button id=11 class="login_fb_button" alt="" style="width:1334px; height:131px; left:53px; top:1306px">Log in with Facebook</button>
+  <p id=12 class="create_account_button" alt="" style="width:287px; height:57px; left:1100px; top:1490px">Create Account</p>
+</html>
